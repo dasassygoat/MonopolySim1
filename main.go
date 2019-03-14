@@ -8,7 +8,7 @@ import (
 )
 
 var rolesOnALine = 10
-var howManyRoles = 1000
+var howManyRoles = 1000000
 
 var role1Values [6]int
 var role2Values [6]int
